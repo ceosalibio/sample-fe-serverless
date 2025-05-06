@@ -163,8 +163,7 @@
         let item = r.data.data
         tableData.value.push(item)
       })
-      // tableData.value.push(data.value)
-      // console.log(data.value)
+    
 
       await form.value.reset()
     }
