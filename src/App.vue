@@ -132,7 +132,7 @@
                   block
                   type="submit"
                 >
-                  ADD
+                  UPDATE
                 </v-btn>
               </v-form>
             </v-card-text>
